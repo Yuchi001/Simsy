@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   needType: 0
   animationName: 0
-  maxNeedValue: 2
+  maxNeedValue: 10
   drainSpeed: 1

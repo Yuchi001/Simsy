@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20c27765d78246ef8ee67354c27adfff, type: 3}
   m_Name: new P2 need
   m_EditorClassIdentifier: 
-  needType: 0
+  needType: 1
   animationName: 0
-  maxNeedValue: 0
-  drainSpeed: 0
+  maxNeedValue: 100
+  drainSpeed: 0.1
